@@ -1,0 +1,14 @@
+cooing
+deafening
+faint
+hissing
+loud
+melodic
+noisy
+purring
+quiet
+raspy
+screeching
+thundering
+voiceless
+whispering

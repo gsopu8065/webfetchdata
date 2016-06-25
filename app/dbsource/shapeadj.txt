@@ -1,0 +1,17 @@
+broad
+chubby
+crooked
+curved
+deep
+flat
+high
+hollow
+low
+narrow
+round
+shallow
+skinny
+square
+steep
+straight
+wide

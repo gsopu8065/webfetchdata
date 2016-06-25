@@ -1,0 +1,15 @@
+ancient
+brief
+early
+fast
+late
+long
+modern
+old
+old-fashioned
+quick
+rapid
+short
+slow
+swift
+young

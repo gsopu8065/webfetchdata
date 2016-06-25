@@ -1,0 +1,10 @@
+abundant
+empty
+few
+full
+heavy
+light
+many
+numerous
+sparse
+substantial
